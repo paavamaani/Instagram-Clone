@@ -1,6 +1,6 @@
 # Instagram-Clone
 
-<img src="https://csshint.com/wp-content/uploads/2019/05/Animated-Logo-examples-2.gif">
+<img src="https://media.tenor.com/_OtyZNwfShYAAAAM/instagram-logo.gif">
 
 ## Tech Stack
 <p align="left"> 
