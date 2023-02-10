@@ -8,9 +8,25 @@
 </p>
 
 ## System Architecture
- 
-* ##### Client: React.js with Redux
-* ##### Backend: Node.js, MySQL, MongoDB    . 
+
+### Frontend
+
+- React JS
+- Redux
+
+### Backend
+
+- Node JS
+- Express JS
+
+### Database
+
+- MongoDB
+- MySQL
+
+### Deployment
+
+- AWS EC2
 
 ## Object Management Policy
 
