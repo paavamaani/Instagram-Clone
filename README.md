@@ -1,4 +1,6 @@
-# Instagram-Clone
+# Instagram Clone
+
+<p> Instagram clone is a social media platform that aims to recreate the functionality and user experience of Instagram. It allows users to share pictures and videos, apply filters and effects, and connect with friends and followers. The platform typically includes features such as a feed for viewing content, a profile for showcasing your own content, the ability to like and comment on posts, and a search function for discovering new users and content. which is deployed in the AWS Elastic Compute Cloud (EC2) environment and is equipped with an autoscaling load balancer to manage high traffic demands </p>
 
 <img src="https://www.movilzona.es/app/uploads-movilzona.es/2018/01/GIF-en-Instagram-1.png">
 
