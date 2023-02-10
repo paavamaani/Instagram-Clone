@@ -36,29 +36,12 @@ When a request is made from the client, the request is processed by the API gate
 
 *	The server's load was distributed and handled via load balancing to multiple instances of our application.
 
-## Contributing 💡
+## Steps to run the application
 
-#### Step 1
-
-- **Option 1**
-
-  - 🍴 Fork this repo!
-
-- **Option 2**
-  - 👯 Clone this repo to your local machine.
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-
+1. git clone [repo](https://github.com/paavamaani/Instagram-Clone.git)
+2. Install dependencies for both frontend and backend npm install ```npm install```
+3. Run backend - ```npm start``` 
+   Run frontend - ```npm start```
 
 ## Screenshots of the App
 
