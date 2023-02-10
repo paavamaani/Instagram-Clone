@@ -39,9 +39,8 @@ When a request is made from the client, the request is processed by the API gate
 ## Steps to run the application
 
 1. git clone [repo](https://github.com/paavamaani/Instagram-Clone.git)
-2. Install dependencies for both frontend and backend npm install ```npm install```
-3. Run backend - ```npm start``` 
-   Run frontend - ```npm start```
+2. Install dependencies npm install ```npm install```
+3. Run - ```npm start```
 
 ## Screenshots of the App
 
