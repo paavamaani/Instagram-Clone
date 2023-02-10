@@ -1,6 +1,6 @@
 # Instagram-Clone
 
-<img src="https://media.tenor.com/_OtyZNwfShYAAAAM/instagram-logo.gif">
+<img src="https://www.movilzona.es/app/uploads-movilzona.es/2018/01/GIF-en-Instagram-1.png">
 
 ## Tech Stack
 <p align="left"> 
@@ -19,6 +19,30 @@ When a request is made from the client, the request is processed by the API gate
 ## Handling heavyweight resources
 
 *	The server's load was distributed and handled via load balancing to multiple instances of our application.
+
+## Contributing 💡
+
+#### Step 1
+
+- **Option 1**
+
+  - 🍴 Fork this repo!
+
+- **Option 2**
+  - 👯 Clone this repo to your local machine.
+
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
+
+## License
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
 
 ## Screenshots of the App
 
